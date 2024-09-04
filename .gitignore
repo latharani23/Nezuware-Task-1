@@ -1,0 +1,6 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore other temporary files
+*.log
+*.tmp
